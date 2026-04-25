@@ -7,7 +7,7 @@ O principal objetivo deste repositório é documentar minha trajetória de apren
 
 # Exercício 1:
 
-###Implementação do modelo KNN em python utilizando a biblioteca sklearn, aplicado aos datasets https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html#sklearn.datasets.load_digits e https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_moons.html#sklearn.datasets.make_moons. 
+### Implementação do modelo KNN em python utilizando a biblioteca sklearn, aplicado aos datasets https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html#sklearn.datasets.load_digits e https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_moons.html#sklearn.datasets.make_moons. 
 
 ### Implementação manual do modelo de Regressão Linear, com otimização com solução analítica utilizando OLS e solução utilizando SGD, dividindo o conjunto de trino em batches. O modelo foi implementado e avaliado para o dataset https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html#sklearn.datasets.fetch_california_housing.
 
